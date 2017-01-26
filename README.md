@@ -1,0 +1,2 @@
+# Checksum
+JS Checksum function.
